@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://magok-karaoke-note.go-bangbae-room.xyz/sitemap.xml
+Sitemap: https://magok-karaoke-note.go-bangbae-room.xyz/sitemap-pages.xml
